@@ -1,0 +1,26 @@
+/* App.css */
+.chatbot-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.chatbot-message {
+  background-color: #f2f2f2;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.user-message {
+  background-color: #007bff;
+  color: white;
+}
+.App-header{
+  text-align: center;
+  padding-top: 10% 20%;
+}
+/* Add more styles as needed */
